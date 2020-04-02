@@ -28,3 +28,5 @@ If the master page html code contains the content inside the master page like th
 
 The code can be removed as follows : 
 >> GoTo Designer >> MasterPages Folder. You will find two files like if your html file name is myHTMLFile.html, you will find myHTMLFile.html and myHTMLFile.master. Open myHTMLFile.html and remove the entire code. Open the page in browser and refresh it. Now you can find only the master page.
+
+Once the editing is completed, we have to publish the site. Go to the Design Manager inside the Look and Feel and click on the ... beside the master page, click ... inside it, go to advanced and then click publish a major version.
